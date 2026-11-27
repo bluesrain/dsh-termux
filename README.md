@@ -129,6 +129,8 @@ REDMI K100 Pro Max (M098FE), Android 17 / HyperOS OS4.0.5.0.XGNCNXM, kernel 6.12
 
 过氧亚硝基阴离子 (ONOO)
 
+[GitHub](https://github.com/bluesrain) · [dsh-termux](https://github.com/bluesrain/dsh-termux)
+
 ---
 
 ## 中文
@@ -307,6 +309,8 @@ root环境：Magisk Alpha 31100（脚本本身无需root）
 
 过氧亚硝基阴离子 (ONOO)
 
+[GitHub](https://github.com/bluesrain) · [dsh-termux](https://github.com/bluesrain/dsh-termux)
+
 ---
 
 ## Русский
@@ -426,3 +430,5 @@ REDMI K100 Pro Max (M098FE), Android 17 / HyperOS OS4.0.5.0.XGNCNXM, ядро 6.
 #### Обновил
 
 过氧亚硝基阴离子 (ONOO)
+
+[GitHub](https://github.com/bluesrain) · [dsh-termux](https://github.com/bluesrain/dsh-termux)
